@@ -12,3 +12,8 @@ uv run basic.py
 # Start export
 # SVG export time:  18.24527883529663
 ```
+
+
+## Generated `.3mf`
+
+<img width="582" alt="3mfout" src="https://github.com/user-attachments/assets/cf85ef14-9c94-47e6-89f5-5b940a096ab1">
