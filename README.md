@@ -17,3 +17,9 @@ uv run basic.py
 ## Generated `.3mf`
 
 <img width="582" alt="3mfout" src="https://github.com/user-attachments/assets/cf85ef14-9c94-47e6-89f5-5b940a096ab1">
+
+
+## Printed and spinning
+
+https://github.com/user-attachments/assets/f42e9984-a9ab-4f14-ae13-d7c7fda380cd
+
