@@ -1,0 +1,16 @@
+[project]
+name = "bb"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bd-warehouse",
+    "build123d",
+    "cadquery-ocp",
+]
+
+[tool.uv.sources]
+cadquery-ocp = { url = "https://github.com/jeremiahrose/ocp-build-system/releases/download/7.7.1.0/cadquery_ocp-7.7.1-cp311-cp311-macosx_11_0_arm64.whl" }
+build123d = { git = "https://github.com/gumyr/build123d" }
+bd-warehouse = { git = "https://github.com/gumyr/bd_warehouse" }
